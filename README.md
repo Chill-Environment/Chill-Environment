@@ -9,8 +9,3 @@
 <p align="center">
    En este momento estoy trabajando en <strong>mi portafolio</strong>
 </p>
-
-
-<p align="center">
-  <i>"La automatización no reemplaza al trabajador, le da superpoderes"</i>
-</p>
