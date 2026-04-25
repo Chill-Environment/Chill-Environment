@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chill-Environment/Chill-Environment/main/assets/banner.jpg" alt="Banner GrowControl" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Chill-Environment/Chill-Environment/main/assets/banner.png" alt="Banner GrowControl" width="100%"/>
 </div>
 
 <h1 align="center">Hola 👋, soy Lucas</h1>
