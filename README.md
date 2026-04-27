@@ -1,6 +1,5 @@
-<h1 align="center">Hola 👋, soy Lucas</h1>
-<p align="center">
-   En este momento estoy trabajando en <strong>mi portafolio</strong> y en <strong>GrowControl</strong>
+<h1 align="center">Hola 👋</h1>
+
 </p>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Chill-Environment/Chill-Environment/main/assets/banner.png" alt="Banner GrowControl" width="100%"/>
